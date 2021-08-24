@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/saaaawara/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 基本情報
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| key | value |
+| :--: | :--: |
+| ニックネーム | sawara |
+| 居住地 | 神奈川県 |
+| 趣味| アニメ、ドライブ |
+| github | https://github.com/saaaawara |
+| qiita | https://qiita.com/dcm_ogasawara |
 
-### Markdown
+### 職務経歴
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 株式会社NTTドコモ ( 2019~ )
 
-```markdown
-Syntax highlighted code block
+- R & D ( Research & Develop ) 所属
+- リアルタイムデータ処理基盤の開発
+- インフラ周りの知識/技術の習得に向けて奮闘中
 
-# Header 1
-## Header 2
-### Header 3
+### スキル
 
-- Bulleted
-- List
+- Python
+- C++
 
-1. Numbered
-2. List
+### プロダクト
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saaaawara/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 推しカメラ
+  - [推ししか勝たんカメラをChrome拡張で作ったら素晴らしい世界だったので祝福したくなった話！ - Qiita](https://qiita.com/dcm_ogasawara/items/dc993f73a21227721bed)
+  - コードは近頃公開します
+- Quizアプリ
+  - [yuzukuma/Quiz](https://github.com/yuzukuma/Quiz)
