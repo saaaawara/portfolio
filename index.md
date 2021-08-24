@@ -27,6 +27,6 @@
 
 - 推しカメラ
   - [推ししか勝たんカメラをChrome拡張で作ったら素晴らしい世界だったので祝福したくなった話！ - Qiita](https://qiita.com/dcm_ogasawara/items/dc993f73a21227721bed)
-  - コードは近頃公開します
+  - コードは近頃公開する予定です
 - Quizアプリ
   - [yuzukuma/Quiz](https://github.com/yuzukuma/Quiz)
