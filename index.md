@@ -7,8 +7,8 @@
 | ニックネーム | sawara |
 | 居住地 | 神奈川県 |
 | 趣味| アニメ、ドライブ |
-| github | https://github.com/saaaawara |
-| qiita | https://qiita.com/dcm_ogasawara |
+| github | [saaaawara (sawara)](https://github.com/saaaawara) |
+| qiita | [dcm_ogasawara - Qiita](https://qiita.com/dcm_ogasawara) |
 
 ### 職務経歴
 
